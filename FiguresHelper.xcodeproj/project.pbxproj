@@ -11,6 +11,7 @@
 		4D8B9FD92757C40A00951EA5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8B9FD82757C40A00951EA5 /* ContentView.swift */; };
 		4D8B9FDB2757C41000951EA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D8B9FDA2757C41000951EA5 /* Assets.xcassets */; };
 		4D8B9FDE2757C41000951EA5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D8B9FDD2757C41000951EA5 /* Preview Assets.xcassets */; };
+		4D8B9FEB2757CEC600951EA5 /* ParallelogramView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8B9FEA2757CEC600951EA5 /* ParallelogramView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4D8B9FD82757C40A00951EA5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4D8B9FDA2757C41000951EA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D8B9FDD2757C41000951EA5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4D8B9FEA2757CEC600951EA5 /* ParallelogramView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallelogramView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				4D8B9FD82757C40A00951EA5 /* ContentView.swift */,
+				4D8B9FEA2757CEC600951EA5 /* ParallelogramView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 			files = (
 				4D8B9FD92757C40A00951EA5 /* ContentView.swift in Sources */,
 				4D8B9FD72757C40A00951EA5 /* FiguresHelperApp.swift in Sources */,
+				4D8B9FEB2757CEC600951EA5 /* ParallelogramView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
